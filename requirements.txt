@@ -1,5 +1,5 @@
-pip install io
-pip install json
-pip install random
-pip install re
-pip install unicodedata
+import io
+import json
+import random
+import re
+import unicodedata
