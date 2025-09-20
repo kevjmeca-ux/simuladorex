@@ -1,4 +1,3 @@
-pip install --upgrade pip
 pip install io
 pip install json
 pip install random
