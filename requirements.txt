@@ -1,4 +1,2 @@
-import json
-import random
-import re
-import unicodedata
+streamlit
+pdfplumber
